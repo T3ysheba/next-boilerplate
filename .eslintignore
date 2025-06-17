@@ -1,0 +1,16 @@
+# Dependencies
+node_modules
+
+# Build output
+.next
+dist
+out
+
+# Configuration / env
+.env*
+*.config.js
+*.config.cjs
+*.config.mjs
+
+# System files
+.DS_Store
